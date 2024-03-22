@@ -93,7 +93,7 @@ for _ in range(n):
 print("El numero real " + str(x) + " elevado al numero natural " + str(n) + " es: " + str(potencia))
 ```
 
-### Codigo numero ### 7
+### Codigo numero 7
 
 - Diseñe un programa que muestre las tablas de multiplicar del 1 al 9.
 
